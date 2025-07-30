@@ -85,6 +85,6 @@
       date: "Mar 2017 - Apr 2018",
       grade: "64x%",
       desc: "I completed my class 10 education from S M J E C Inter College, Khurja  under the UP board, where I studied Science with Computer.",
-      degree: "UP(X), Science",
+      degree: "UP Board(X), Science",
     },
   ];
